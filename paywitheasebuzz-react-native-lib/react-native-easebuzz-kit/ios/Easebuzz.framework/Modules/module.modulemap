@@ -1,7 +1,7 @@
 framework module Easebuzz {
   umbrella header "Easebuzz.h"
-
   export *
+
   module * { export * }
 }
 
